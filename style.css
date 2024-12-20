@@ -1,4 +1,10 @@
 .header{
-    color : red;
-    
+    background-color : steelblue;
+    color : white;
+    width: auto;
+    height: 1.5 rem;
+}
+
+.navbar{
+    display: inline-flex;
 }
